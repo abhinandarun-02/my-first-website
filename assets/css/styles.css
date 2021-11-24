@@ -8,8 +8,8 @@
 
 /*===== Colores =====*/
 :root {
-  --first-color: #ff0000;
-  --second-color: #5d60fa;
+  --first-color: #6200ff;
+  --second-color: #5dcdfa;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -234,7 +234,7 @@ table,
 td,
 th {
   border-collapse: collapse;
-  border-color: tomato;
+  border-color: #008cff;
   border-width: 4px;
   border-style: solid;
   text-align: center;
